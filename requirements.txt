@@ -6,3 +6,4 @@ absl-py
 easydict
 matplotlib
 pillow
+this most important module is required for CCTV human detection
